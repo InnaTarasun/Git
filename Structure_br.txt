@@ -1,1 +1,8 @@
-
+Heading: main points of bug, 
+Description: brief description of the problem, 
+Severity: high, 
+Steps to reproduce: how to reproduce bug, 
+Environment: name of enviroment used, 
+Expected result: what we wanted to have,
+Actual result: what we've got, 
+Visual attachments: screenshoots.
